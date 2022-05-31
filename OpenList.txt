@@ -1,10 +1,10 @@
 ID,CALL,CN,TYPE
-3EF004,D-3949,CL Angenendt/Stimming,Duo Discus X
-D00B15,D-0255,BR Brune Lukas,Arcus T
-3EC206,D-KOLA,LA Klomps/Berends,ASH 25 E
-DD8676,D-8040,40 Schnettler Thomas,DG-500
-DDAA94,D-3331,1E Bülter Uli,Duo Discus
-DDA56B,D-KIGH,GH van de Sandt Hein,ASH 25 Mi
-DD84F3,D-4872,8E Jansen/Bülter,LS8-18
-3EC498,D-KPKI,KI Stark/Isegrei/Isegrei,Arcus M
-DD84B0,D-0328,AB Kronig Nils,Discus CS
+063EF004,D-3949,CL Angenendt/Stimming,Duo Discus X
+06D00B15,D-0255,BR Brune Lukas,Arcus T
+063EC206,D-KOLA,LA Klomps/Berends,ASH 25 E
+06DD8676,D-8040,40 Schnettler Thomas,DG-500
+06DDAA94,D-3331,1E Bülter Uli,Duo Discus
+06DDA56B,D-KIGH,GH van de Sandt Hein,ASH 25 Mi
+06DD84F3,D-4872,8E Jansen/Bülter,LS8-18
+063EC498,D-KPKI,KI Stark/Isegrei/Isegrei,Arcus M
+06DD84B0,D-0328,AB Kronig Nils,Discus CS
